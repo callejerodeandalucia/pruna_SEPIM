@@ -1,24 +1,31 @@
-TÃ­tulo (30)
-===========
+Título:
 
-DescripciÃ³n breve (80)
-======================
+GUÍA OFICIAL DE PRUNA
 
-DescripciÃ³n completa (4000)
-===========================
 
-Etiquetas	
-===========
+Descripción breve:
 
-Notas de versiÃ³n
-=================
-VersiÃ³n inicial
+Guía con información de interés de Pruna, un rincón paradisiaco, Atalaya natural
 
-****aÃ±adir algo aquÃ­ si se publica en forma de actualizaciÃ³n***
+Descripción completa:
 
-Sitio web
-=========
 
-Correo electrÃ³nico
-==================
+Con la Aplicación “Guía Oficial de Pruna”, llevarás Pruna en Tú Bolsillo!
 
+Es una aplicación desarrollada por el Ayuntamiento y pretende ser un canal más de información y comunicación entre el ciudadano y la Administración.
+
+La idea inicial de esta aplicación es ofrecer una guía en la que se puede encontrar (a través de la geolocalización en un plano) la máxima información de Pruna, desde una visión general, así como detallada, que servirá en la vida cotidiana a todo aquel (turista o visitante) que se acerque a esta bella localidad.
+
+Esta guía es muy útil para moverse por sus calles y, de forma rápida y ágil, localizar alojamientos rurales, el centro de salud, restaurantes, centros educativos, Organismos públicos, bancos, así como conocer sus fiestas y costumbres, ocio, cultura, artesanía, monumentos y demás lugares de interés.
+
+Esta aplicación no solo indica la ubicación, sino que incluso, usando la tecnología GPS, te guiará hasta el lugar solicitado e incluso ofrece la posibilidad de realizar llamadas o enviar correos electrónicos para contactar, así como visitar sus sitios web o redes sociales, a la vez que ofrece una breve descripción informativa (ej: horarios y otros datos de interés).
+
+La aplicación dispone de un servicio "Cerca de mí" que usando la tecnología del GPS indicará al ciudadano todos los elementos de interés cercanos a su posición.
+
+Pruna es una pequeña localidad situada al sur de la provincia de Sevilla, en la Sierra del Tablón, limitando con las provincias de Cádiz y Málaga. Constituye un núcleo urbano sencillo, serrano y tranquilo de casas blancas y tejas marrones, perfectamente integrado en un bello paisaje presidido por el Castillo de Hierro, monumento declarado Bien de Interés Cultural, es un pueblo para desconectar, descansar, perderse, Pruna es el lugar perfecto para relajarse y vivir la naturaleza. 
+Es un municipio que cuenta con una superficie de 100,6 kilómetros cuadrados, en cuyo término municipal contamos con una zona protegida dentro del Plan Especial de Protección del Medio Físico de la provincia de Sevilla,  catalogada como Complejo Serrano, código CS-24, por su gran riqueza natural y dar cobijo a especies autóctonas.
+Pruna es Tradición y Naturaleza, naturaleza viva, naturaleza pura, un rincón paradisiaco que destaca por su belleza paisajística y las espectaculares vistas que nos ofrece, sobre todo desde el Castillo de Hierro y desde “El Terril” punto más alto de la Provincia de Sevilla con 1129 m.s.n.m. 
+Su ubicación la coloca en un enclave ideal como punto de partida para visitar otros parajes o localidades cercanas, pues se encuentra en el límite de 3 provincias andaluzas, a 42 kilómetros de la Serranía de Ronda, en la Ruta de los Pueblos Blancos, y si te gustan los deportes acuáticos, a unos 22 kms nos encontramos con el Embalse Zahara – El Gastor. Pruna es parte integrante de la Vía Verde de la Sierra, única ruta  de vía, declarada de interés turístico de Andalucía donde podemos visitar el Centro de Interpretación y Observatorio Ornitológico-Peñón de Zaframagón que alberga la mayor reserva natural de anidación de buitres leonados de Andalucía y una de las mayores de Europa.
+Si te gusta el mundo rural, el deporte al aire libre, sabes apreciar los productos naturales, disfrutas la buena mesa,.. Pruna es tu destino. Pruna es la atalaya de Sevilla, ¿te atreves a coronarla?
+
+Visita Pruna, tan desconocida e inexplorada como atractiva.
