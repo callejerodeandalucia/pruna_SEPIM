@@ -2,13 +2,13 @@
     	<widget xmlns   = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
 		xmlns:android="http://schemas.android.com/apk/res/android"
-		id          = "es.juntadeandalucia.mapea.sepim.pruna"
+		id          = "es.juntadeandalucia.mapea.sepim.fuenteheridos"
 		versionCode = "200" 
 		version     = "2.0.0" >
 
-	<name>Guía Oficial de Pruna</name>
+	<name>GUIA OFICIAL DE FUENTEHERIDOS</name>
 	<description>
-		Guía con información de interés de Pruna, un rincón paradisiaco, Atalaya natural.
+		Guia oficial de Fuenteheridos, pueblo integrado en el corazon del Parque Natural.
 	</description>
 	<author email="sepim.ieca@juntadeandalucia.es" href="http://www.callejerodeandalucia.es/">
 		Junta de Andalucía
